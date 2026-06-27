@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0344-reverse-string](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0232-implement-queue-using-stacks) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
