@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0496-next-greater-element-i) |
+| [0704-binary-search](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0704-binary-search) |
 ## Stack
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
