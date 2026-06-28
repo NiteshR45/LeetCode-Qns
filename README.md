@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0024-swap-nodes-in-pairs) |
 | [0138-copy-list-with-random-pointer](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/NiteshR45/LeetCode-Qns/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/NiteshR45/LeetCode-Qns/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
 |  |
