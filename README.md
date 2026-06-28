@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0007-reverse-integer) |
+| [0268-missing-number](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0138-copy-list-with-random-pointer) |
+| [0268-missing-number](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0496-next-greater-element-i) |
 | [1796-second-largest-digit-in-a-string](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1796-second-largest-digit-in-a-string) |
 ## Array
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0496-next-greater-element-i) |
 ## Stack
@@ -73,9 +76,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0414-third-maximum-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
