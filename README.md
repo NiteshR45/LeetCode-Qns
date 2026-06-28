@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0024-swap-nodes-in-pairs) |
 | [0138-copy-list-with-random-pointer](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0138-copy-list-with-random-pointer) |
+| [0142-linked-list-cycle-ii](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/NiteshR45/LeetCode-Qns/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0088-merge-sorted-array) |
+| [0142-linked-list-cycle-ii](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0876-middle-of-the-linked-list) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0138-copy-list-with-random-pointer) |
+| [0142-linked-list-cycle-ii](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0496-next-greater-element-i) |
 | [1796-second-largest-digit-in-a-string](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1796-second-largest-digit-in-a-string) |
