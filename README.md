@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0234-palindrome-linked-list) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0344-reverse-string) |
 | [1189-maximum-number-of-balloons](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1189-maximum-number-of-balloons) |
 | [1796-second-largest-digit-in-a-string](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1796-second-largest-digit-in-a-string) |
