@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/NiteshR45/LeetCode-Qns/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1189-maximum-number-of-balloons) |
 | [1796-second-largest-digit-in-a-string](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1796-second-largest-digit-in-a-string) |
 ## Array
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1189-maximum-number-of-balloons) |
 | [1796-second-largest-digit-in-a-string](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1796-second-largest-digit-in-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -180,5 +183,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
